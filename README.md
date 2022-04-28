@@ -4,10 +4,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Overview
 ## Solution Desktop Screenshot
-![](../order-summary-component-main/images/solution-desktop.png)
+
+![solution-desktop](https://user-images.githubusercontent.com/54643137/165824731-48821b25-042e-42fd-b965-6996ff9b2cf9.png)
 
 ## Solution Mobile Screenshot
-![](../order-summary-component-main/images/solution-mobile.png)
+![solution-mobile](https://user-images.githubusercontent.com/54643137/165824746-ffdd8b8d-3952-4ae6-9a86-a34aa462eb1f.png)
+
 
 ### Links
 
